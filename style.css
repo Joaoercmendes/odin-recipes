@@ -1,0 +1,21 @@
+* {
+    background-color: antiquewhite;
+    color: black;
+    text-align: center;
+    font-size: 16px;
+}
+
+img {
+    width: auto;
+    height: 250px;
+}
+
+h1 {
+    font-size: 50px;
+    color: brown;
+}
+
+h3 {
+    font-size: 20px;
+    color: brown;
+}
